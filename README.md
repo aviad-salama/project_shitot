@@ -1,2 +1,2 @@
 # project_shitot
-working progress 
+working progress project , for sync between differnt students. 
